@@ -1,3 +1,9 @@
 # My-First-Pages
 taoye
-hhhhhh
+嘎了陶冶
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
